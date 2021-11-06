@@ -1,0 +1,5 @@
+[flake8]
+# ignore 'imported but unused' error
+ignore = F401
+# short lines makes me sick
+max-line-length = 160
